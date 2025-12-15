@@ -2,7 +2,7 @@ class HelloWorld:
 
     @staticmethod
     def main():
-        print("Hello World")
+        print("Hello World from GitHub")
 
 
 if __name__ == "__main__":
